@@ -1,4 +1,11 @@
 Link para download do git: https://git-scm.com/downloads
 
 
+git clone + link: Clona o repositório do Github para um repositório git local
+git status: Verifica o status da pasta que esta sendo acessada no momento e sugere ações
+ls -a: lista arquivos ocultos(.git por exemplo)
+git add:inclusão ou modificação do arquivo no diretório local, preparando ele para ser entregue ao servidor remoto para a mesma aplicação que está sincronizada na máquina local.
+git commit:prepara as alterações e comentario para serem subidas para o servidor remoto
+git push origin main: sobe as informações para o servidor remoto(github)
+
 
